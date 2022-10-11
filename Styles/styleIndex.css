@@ -1,0 +1,100 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    outline: 0%;
+    box-sizing: border-box;
+}
+
+#contenedor{
+    width: 100%;
+    height: 100%;
+    padding-top: 70px;
+    background-color:#626d71;
+    display: block;
+}
+
+/*---------------Navegador-----*/
+#contenedorNavegador{
+    width: 100%;
+    height: 70px;
+    background-color: #283655;
+    position: fixed;
+}
+
+#contenedorNavegadorItems{
+    width: 90%;
+    height: 60%;
+    margin-left: 5%;
+    margin-top: 0.7%;
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+}
+
+.nevagadorItem{
+    background-color: orange;
+    flex-grow: 1;
+}
+
+#navegadorHome{
+    display: inline;
+    width: 50px;
+    height: 30px;
+    background-color: red;
+}
+
+#navegadorHome a, li{
+    color: white;
+    list-style-type: none;
+    display: inline-block;
+}
+
+#navegadorLista{
+    width: auto;
+    height: 40px;
+    background-color: chocolate;
+}
+
+/*---------------Contenido-----*/
+#contenedorContenido{
+    width: 100%;
+    height: 4525px;
+    background-color: #d0e1f9;
+}
+
+#contenidoCarrusel{
+    width: 100%;
+    height: 905px;
+    background-color: #a1be95;
+}
+
+#contenidoAboutMe{
+    width: 100%;
+    height: 905px;
+    background-color: #e2dfa2;
+}
+
+#contenidoCanciones{
+    width: 100%;
+    height: 905px;
+    background-color: #92aac7;
+}
+
+#contenidoAlbunes{
+    width: 100%;
+    height: 905px;
+    background-color: #ed5752;
+}
+
+#contenidoShop{
+    width: 100%;
+    height: 905px;
+    background-color: #eb5e30;
+}
+
+/*---------------Direcciones-----*/
+#contenedorDirecciones{
+    width: 100%;
+    height: 150px;
+    background-color: #4d648d;
+}
