@@ -1,0 +1,46 @@
+#626d71
+#cdcdc0
+#ddbc95
+#b38867
+
+#1e1f26
+#283655
+#4d648d
+#d0e1f9
+
+
+#a1be95
+#e2dfa2
+#92aac7
+#ed5752
+#eb5e30
+
+
+Index
+
+navegador{
+    Inicio 
+
+    musica
+    algunes 
+    biografia
+    Tienda
+}
+
+contenedor{
+
+    contenido{
+        carrusel
+
+        aboutMe 
+        canciones
+        albunes
+        shop
+    }
+
+    direcciones{
+
+    }
+}
+
+
